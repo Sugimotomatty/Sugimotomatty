@@ -16,9 +16,15 @@
 
 
 # Languages and Tools:
+<p>
 ・TypeScript
+</p>
+<p>
 ・React, Next.js (Tailwind, storybook,  etc)
+</p>
+<p>
 ・Nest.js
+</p>
 
 <!--
 **Sugimotomatty/Sugimotomatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
