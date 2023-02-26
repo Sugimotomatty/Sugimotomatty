@@ -12,6 +12,14 @@
   </a>
 </p>
 
+# Github Status
+
+
+# Languages and Tools:
+・TypeScript
+・React, Next.js (Tailwind, storybook,  etc)
+・Nest.js
+
 <!--
 **Sugimotomatty/Sugimotomatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
