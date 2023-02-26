@@ -3,7 +3,18 @@
   <img src="https://user-images.githubusercontent.com/97184603/221413460-0825f4a3-d5bb-4142-8580-586a8894e714.jpg" alt="altテキスト" width="300">
 </p>
 
-## 
+# Links
+p align="left">
+  <a href="https://github.com/Sugimotomatty/Sugimotomatty/">
+    <img src="https://komarev.com/ghpvc/?username=Sugimotomatty" alt="Sugimotomatty" />
+  </a>
+  <a href="https://github.com/Sugimotomatty">
+    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/Sugimotomatty">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
+  </a>
+</p>
 
 <!--
 **Sugimotomatty/Sugimotomatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
