@@ -4,7 +4,6 @@
 </p>
 
 # Links
-p align="left">
   <a href="https://github.com/Sugimotomatty/Sugimotomatty/">
     <img src="https://komarev.com/ghpvc/?username=Sugimotomatty" alt="Sugimotomatty" />
   </a>
