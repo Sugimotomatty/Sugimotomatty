@@ -1,8 +1,7 @@
 # README
-<p align="center">
+<p align="right">
   <img src="https://user-images.githubusercontent.com/97184603/221413460-0825f4a3-d5bb-4142-8580-586a8894e714.jpg" alt="altテキスト" width="200">
 </p>
-![radiFiロゴ]()
 
 <!--
 **Sugimotomatty/Sugimotomatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
