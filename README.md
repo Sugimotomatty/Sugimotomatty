@@ -10,9 +10,6 @@
   <a href="https://github.com/Sugimotomatty">
     <img height="20" src="https://img.shields.io/github/followers/Sugimotomatty?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/Sugimotomatty">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Sugimotomatty?label=Reddit&logo=reddit&style=flat" />
-  </a>
 </p>
 
 <!--
