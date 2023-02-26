@@ -23,7 +23,7 @@
 ・React, Next.js (Tailwind, storybook,  etc)
 </p>
 <p>
-・Nest.js
+・Python
 </p>
 
 <!--
